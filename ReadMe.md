@@ -1,5 +1,5 @@
 # 💫 About Me:
-29 Anos. Desenvolvedor Back-end e Mobile<br>- Apaixonado por Futebol Americano<br>- RPG<br>- Games e livros.
+29. Desenvolvedor Back-end e Mobile<br>- Apaixonado por Futebol Americano<br>- RPG<br>- Games e livros.
 
 
 ## 🌐 Socials:
